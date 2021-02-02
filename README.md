@@ -13,20 +13,17 @@
 # Unsolved problems:
     Successfully align "key note" names
 
-# User stories
-    
-
 # Personal notes so you can come back to your project later in the course and be able to pick up your train of thought, etc
     
     ### Wishlist Ideas
 
-    * Eventually I'd like to include a couple buttons that shape the sounds of the keyboard also known as filters. This filter can change the shapes/lengths/pitch of each sound when engaged.
+    • Eventually I'd like to include a couple buttons that shape the sounds of the keyboard also known as filters. This filter can change the shapes/lengths/pitch of each sound when engaged.
 
-    * I'd like to include a mod wheel and a volume level as well as an on/off switch
+    • I'd like to include a mod wheel and a volume level as well as an on/off switch
 
-    * Ability to connect a midi keyboard
+    • Ability to connect a midi keyboard
 
-    * WhiteKeys to become the 'main' Keyboard Component, which renders separate compoments WhiteKeys and BlackKeys
+    • WhiteKeys to become the 'main' Keyboard Component, which renders separate compoments WhiteKeys and BlackKeys
 
 
 # BabySynth Project
@@ -35,6 +32,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # To try it out on your own system:
 
+    • https://mini-synth.herokuapp.com/
+
+    OR
+    
     git fork https://github.com/saracpena/2020-SE-Master/tree/main/Projects/mysynth
 
     To just run the app as is:
