@@ -1,5 +1,5 @@
 # Introduction: 
-    BabySynth began as a single button that would output a musical synth note. After several iterations it quickly turned into what is now a 13-key BabySynth Keyboard. These notes include white keys which are the natural notes 'C thru upper octave C' and 5 black keys which are sharp/flat notes 'C# thru A#'. Included are two buttons that play C Major arpeggios, which play a C Major Chord one note at a time with the click of a button.
+    BabySynth began as a single button that would output a musical synth note. After several iterations it quickly turned into what is now a 13-key MiniSynth Keyboard. These notes include white keys which are the natural notes 'C thru upper octave C' and 5 black keys which are sharp/flat notes 'C# thru A#'. Included are two buttons that play C Major arpeggios, which play a C Major Chord one note at a time with the click of a button.
 
 # Technologies used:
     ReactJS
@@ -8,7 +8,7 @@
     JavaScript
 
 # The approach: 
-    Created a parent component, App.js which imports children components, "WhiteKeys.js, BlackKeys.js, and PlayChord.js" and deployed BabySynth on github using ReactJS through an index.html entry point using an index.js
+    Created a parent component, App.js which imports children components, "WhiteKeys.js, BlackKeys.js, and PlayChord.js" and deployed MiniSynth on github using ReactJS through an index.html entry point using an index.js
 
 # Unsolved problems:
     Successfully align "key note" names
@@ -26,7 +26,7 @@
     • WhiteKeys to become the 'main' Keyboard Component, which renders separate compoments WhiteKeys and BlackKeys
 
 
-# BabySynth Project
+# MiniSynth Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -35,7 +35,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     • https://mini-synth.herokuapp.com/
 
     OR
-    
+
     git fork https://github.com/saracpena/2020-SE-Master/tree/main/Projects/mysynth
 
     To just run the app as is:
