@@ -1,6 +1,10 @@
 # Introduction: 
     BabySynth began as a single button that would output a musical synth note. After several iterations it quickly turned into what is now a 13-key MiniSynth Keyboard. These notes include white keys which are the natural notes 'C thru upper octave C' and 5 black keys which are sharp/flat notes 'C# thru A#'. Included are two buttons that play C Major arpeggios, which play a C Major Chord one note at a time with the click of a button.
 
+# Gold Release
+
+![MiniSynth](https://media.giphy.com/media/fDLlpPPBurSkb1jpHc/giphy.gif)
+
 # Technologies used:
     ReactJS
     HTML5
