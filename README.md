@@ -3,6 +3,8 @@
 
 # Gold Release
 
+https://mini-synth.herokuapp.com/
+
 ![MiniSynth](https://media.giphy.com/media/fDLlpPPBurSkb1jpHc/giphy.gif)
 
 # Technologies used:
